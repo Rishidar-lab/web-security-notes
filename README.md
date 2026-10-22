@@ -1,5 +1,9 @@
 # web-security-notes
 
-Personal notes on web application security research — covering **IDOR, authentication flaws, JWT issues, OAuth/OIDC confusion**, and bug bounty methodology.
+## Status
 
-Includes safe demos, report-writing practice, and PoC discipline notes. All research is authorized and in-scope only.
+**ARCHIVED — never populated.**
+
+This repository was created on 2026-06-12 as a placeholder for web-application security study notes. No code, notes, or templates were ever committed beyond this README. It is archived read-only to keep the account inventory honest; it is a candidate for deletion and has no dependents.
+
+Active work lives in the repositories listed on the [Rishidar-lab profile](https://github.com/Rishidar-lab).
